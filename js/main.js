@@ -23,22 +23,22 @@ const projectData = [
 
 const timelineData = [
   {
-    date: "2025",
+    date: "2026",
     title: "Projet de fin d'études",
-    detail: "Développement d’un système logiciel complet pour la gestion d’organisations avec des composantes IA intégrées.",
+    detail: "Développement d’un modèle de classification d’images médicales utilisant des techniques de machine learning pour améliorer la précision du diagnostic.",
   },
   {
-    date: "2024",
+    date: "2026",
     title: "Conférence IA universitaire",
     detail: "Animation d’un atelier sur les enjeux de l’intelligence artificielle en milieu universitaire.",
   },
   {
-    date: "2023",
+    date: "2025-2026",
     title: "Assistant d’enseignement",
     detail: "Encadrement d’étudiants en algorithmique, programmation C/C++ et développement logiciel.",
   },
   {
-    date: "2022",
+    date: "Mars 2026",
     title: "Lancement de PACTE",
     detail: "Création d’une plateforme web collaborative pour faciliter la gestion des projets et des activités pédagogiques.",
   },
